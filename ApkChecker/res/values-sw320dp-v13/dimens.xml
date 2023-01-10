@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_dialog">6.0dip</dimen>
+    <dimen name="padding_page">3.0dip</dimen>
+    <dimen name="padding_text">3.0dip</dimen>
+    <dimen name="span_vertical">6.0dip</dimen>
+</resources>

@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dia_title_set_installer">Установщик пакетов</string>
+    <string name="menu_set_installer">Установщик пакетов</string>
+    <string name="toast_no_system_installer">Простите, установщик пакетов не найден.</string>
+    <string name="menu_clear_defaults">Сбросить настройки</string>
+    <string name="toast_cleared_defaults">Настройки по умолчанию сброшены</string>
+    <string name="activity_batch_rename">Пакетное переименование</string>
+    <string name="app_name">APK Checker</string>
+    <string name="dia_batch_rename_desc">"Пакетное переименование активировано!
+
+Как оно работает?
+Выберите несколько apk файлов в любом файловом менеджере и отправьте файлы через Пакетное переименование."</string>
+    <string name="dia_bt_always">Всегда</string>
+    <string name="dia_bt_cancel">Отмена</string>
+    <string name="dia_bt_close">Ок</string>
+    <string name="dia_bt_got_it">Понятно</string>
+    <string name="dia_bt_hide">Скрыть</string>
+    <string name="dia_bt_market">Маркет</string>
+    <string name="dia_bt_ok">Ок</string>
+    <string name="dia_bt_once">Один раз</string>
+    <string name="dia_bt_reset">Сбросить</string>
+    <string name="dia_bt_thanks">Благодарности</string>
+    <string name="dia_bt_undo">Отменить все</string>
+    <string name="dia_class_name">Имя класса:</string>
+    <string name="dia_help_desc">"APK Checker - приложение для просмотра сведений об apk-файлах. (.apk файлы).
+
+[ОПИСАНИЕ]
+
+> %1$s
+%2$s
+
+> %3$s
+%4$s
+
+> %5$s
+%6$s
+
+> %7$s
+%8$s
+
+> %9$s
+%10$s
+
+> %11$s
+%12$s
+
+> %13$s
+%14$s
+
+> %15$s
+%16$s
+
+> %17$s
+%18$s
+
+> %19$s
+%20$s
+
+> %21$s
+%22$s
+
+> %23$s
+%24$s
+
+> %25$s
+%26$s
+
+> %27$s
+%28$s
+
+> %29$s
+%30$s
+
+> %31$s
+%32$s
+
+> %33$s
+%34$s
+
+> %35$s
+%36$s
+
+> %37$s
+%38$s
+
+> %39$s
+%40$s
+
+> %41$s
+%42$s
+
+> %43$s
+%44$s
+
+> %45$s
+%46$s
+
+> %47$s
+%48$s
+
+> %49$s
+%50$s
+
+> %51$s
+%52$s
+
+> %53$s
+%54$s
+
+> %55$s
+%56$s
+
+%57$s"</string>
+    <string name="dia_loading">Загрузка...</string>
+    <string name="dia_package_name">Имя пакета:</string>
+    <string name="dia_thanks_desc">"APK Checker стал лучше с помощью этих пользователей.
+
+Спасибо
+> @balzac, etc. for helping design the new icon.
+> @mooooo, @以Porsche之名, @illsr, etc. for helping translate into traditional Chinese.
+> @萌萌的小雅酱, etc. for helping translate into Japanese.
+> @maksnogin, etc. for helping translate into Russian.
+> @luchun0112, etc. for feeding back and suggesting.
+
+APK Checker includes libraries licensed under the Apache Software License 2.0.
+> Modified version of zip4j_v1.3.2"</string>
+    <string name="dia_title_batch_rename">Пакетное переименование</string>
+    <string name="dia_title_help">Помощь</string>
+    <string name="dia_title_make_lines">Показать/скрыть элементы</string>
+    <string name="dia_title_name_pic_rule">Как назвать?</string>
+    <string name="dia_title_rename_apk_rule">Как переименовать?</string>
+    <string name="dia_title_renaming">Переименование...</string>
+    <string name="dia_title_skipped">Пропущено (%1$d/%2$d)</string>
+    <string name="dia_title_thanks">Благодарности</string>
+    <string name="hello_warning">Обратите внимание, что иконка приложения НЕ БУДЕТ отображаться в лаунчере. APK Checker появляется лишь при установке новых приложений.</string>
+    <string name="i_know">Я знаю</string>
+    <string name="install">Установить</string>
+    <string name="menu_batch_rename">Пакетное переименование</string>
+    <string name="menu_extra_label">Дополнительные метки</string>
+    <string name="menu_help">Помощь</string>
+    <string name="menu_light_theme">Светлая тема</string>
+    <string name="menu_make_lines">Показать/скрыть элементы</string>
+    <string name="menu_more">Дополнительно...</string>
+    <string name="menu_rename">Формат имени файлов</string>
+    <string name="menu_save_icon">Сохранить иконку</string>
+    <string name="menu_uninstall">Удалить APK Checker</string>
+    <string name="menu_view_in_market">Перейти в маркет</string>
+    <string name="show_installed">Показать УСТАНОВЛЕННЫЕ</string>
+    <string name="tag_activities">Активити:</string>
+    <string name="tag_app_name">Имя приложения:</string>
+    <string name="tag_certificate_end">"Конец 
+сертификата:"</string>
+    <string name="tag_certificate_fingerprints">"Сертификат 
+отпечатков 
+пальцев:"</string>
+    <string name="tag_certificate_start">"Начало 
+сертификата:"</string>
+    <string name="tag_compiling_time">Время сборки:</string>
+    <string name="tag_file_name">Название:</string>
+    <string name="tag_file_path">Путь:</string>
+    <string name="tag_file_size">Размер:</string>
+    <string name="tag_first_install">"Первая 
+установка:"</string>
+    <string name="tag_flags">Флаги:</string>
+    <string name="tag_help_activities">"Активити представляет собой один экран с пользовательским интерфейсом.
+Это один из четырех основных компонентов для Android приложения.
+(Зеленой является активити, которая доступна для использования другими приложениями.)"</string>
+    <string name="tag_help_app_name">Первая строка - имя в соответствии с действующим языком и вторая строка - на английском языке (если существует).</string>
+    <string name="tag_help_certificate_end">Конец срока действия сертификата.</string>
+    <string name="tag_help_certificate_fingerprints">Он показывает следующие пункты: название алгоритма подписи сертификата, версии сертификатов, хэш-значение MD5, хэш-значение SHA1 и хэш-значение SHA256.</string>
+    <string name="tag_help_certificate_start">Начало срока действия сертификата.</string>
+    <string name="tag_help_compiling_time">"Дата, когда пакет приложения был создан.
+Обратите внимание, что это не всегда точно."</string>
+    <string name="tag_help_file_name">"Имя .apk файла.
+(Красный цвет, если приложение дублируется и apk файл недоступен)"</string>
+    <string name="tag_help_file_path">"Полный путь до .apk файла.
+(Красный цвет, если приложение дублируется и apk файл недоступен)"</string>
+    <string name="tag_help_file_size">Размер .apk файла.</string>
+    <string name="tag_help_first_install">Время, в которое приложение было установлено первый раз.</string>
+    <string name="tag_help_flags">Флаги, связанные с приложением.</string>
+    <string name="tag_help_icon_size">Размер иконки должен быть 48*48dp в соответствии с официальными документами.</string>
+    <string name="tag_help_installed_from">Показывает, когда применялась установка этого пакета. И определяет с какого маркета был установлен данный пакет.</string>
+    <string name="tag_help_last_update">Время, в которое приложение было обновлено.</string>
+    <string name="tag_help_launcher_activity">"Первая активити в пакете.
+Если значение было пустое, тогда не было бы иконки приложения в \"Лаунчере\"."</string>
+    <string name="tag_help_launcher_icon">Иконка приложения, которую вы видите в лаунчере.</string>
+    <string name="tag_help_min_sdk">"Мин. уровень API необходимый для запуска приложения.
+Система Android будет препятствовать установке приложения, если системный уровень API ниже, чем значение, указанное в этом атрибуте."</string>
+    <string name="tag_help_package_name">"Полное название пакета в соответствии с Java языком.
+Имя должно быть уникальным.
+После того, как приложение, опубликовано, имя пакета не может быть изменено."</string>
+    <string name="tag_help_permissions">Объявляет разрешения безопасности, которые могут использоваться, чтобы ограничить доступ к определенным компонентам или особенностям этого или других приложений</string>
+    <string name="tag_help_providers">"Контент-провайдер управляет общим набором данных приложений.
+Это один из четырех основных компонентов для Android приложения.
+(Зеленым является контент-провайдер, который доступен для использования в других приложениях.)"</string>
+    <string name="tag_help_receivers">"Ресивер передач является компонентом, который реагирует на общесистемные вещания.
+Многие передачи происходят из системы.
+Это один из четырех основных компонентов для Android приложения.
+(Зеленым является ресивер, который доступен для использования другими приложениями.)"</string>
+    <string name="tag_help_req_permissions">"Android-это операционная система разделенных привилегий и дополнительных детализированных функций безопасности работающих посредством механизма «разрешений», который обеспечивает соблюдение ограничений по конкретным операциям.
+\"Запрашиваемые разрешения\" перечислены все разрешения, запрашиваемые приложением.
+(Красным является разрешение, которое является опасным и определенным в API 23.
+Опасные разрешения охватывают области, где приложение запрашивает доступ к данным или ресурсам, которые включают личную информацию пользователя.)"</string>
+    <string name="tag_help_services">"Сервис представляет собой компонент, который работает в фоновом режиме.
+Сервис не обеспечивает пользовательский интерфейс.
+Это один из четырех основных компонентов для Android приложения.
+(Зеленым является сервис, который доступен для использования в других приложениях.)"</string>
+    <string name="tag_help_signatures">"Подпись связана с пакетом приложения.
+Все APK (файлы с расширением .apk) должны быть подписаны с помощью сертификата, чей закрытый ключ находится у разработчика.
+Этот сертификат идентифицирует автора приложения.
+\"Подписи\" показывают следующие пункты: CN (имя и фамилия), OU (организационная единица), O (организация), L (город или населенный пункт), ST (государство или провинция) и С (код страны).
+(Красный цвет, если подпись неофициальная.)"</string>
+    <string name="tag_help_supported_abis">"ABIs, поддерживаемые данным приложением.
+Обратите внимание, что это не всегда правильно."</string>
+    <string name="tag_help_target_sdk">Макс. уровень API для этого приложения.</string>
+    <string name="tag_help_ver_code">"Внутренний номер версии.
+Этот номер используется только для определения является ли одна версия более поздней, чем другая, с более высокими номерами, указываются более поздние версии."</string>
+    <string name="tag_help_ver_name">Номер версии, который видит пользователь.</string>
+    <string name="tag_icon_size">Размер иконки:</string>
+    <string name="tag_installed_from">Установлено из:</string>
+    <string name="tag_last_update">"Последнее 
+обновление:"</string>
+    <string name="tag_launcher_activity">"Активити 
+приложения:"</string>
+    <string name="tag_launcher_icon">Иконка:</string>
+    <string name="tag_min_sdk">Мин. версия SDK:</string>
+    <string name="tag_package_name">Имя пакета:</string>
+    <string name="tag_permissions">Разрешения:</string>
+    <string name="tag_providers">"Контент 
+провайдеры:"</string>
+    <string name="tag_receivers">"Ресиверы 
+передач:"</string>
+    <string name="tag_req_permissions">"Запрашиваемые 
+разрешения:"</string>
+    <string name="tag_services">Сервисы:</string>
+    <string name="tag_signatures">Подписи:</string>
+    <string name="tag_supported_abis">Поддержка ABIs:</string>
+    <string name="tag_target_sdk">"Макс. 
+версия SDK:"</string>
+    <string name="tag_ver_code">Код версии:</string>
+    <string name="tag_ver_name">Версия:</string>
+    <string name="tap_to_show_progress">Сенсорный экран, чтобы отобразить прогресс</string>
+    <string name="title_installed">УСТАНОВЛЕННЫЕ</string>
+    <string name="toast_batch_rename_removed">Пакетное переименование ОТКЛЮЧЕНО!</string>
+    <string name="toast_copied">Скопировано в буфер обмена</string>
+    <string name="toast_dev_already">Не нужно, вы уже разработчик.</string>
+    <string name="toast_dev_mode">Вы стали разработчиком!</string>
+    <string name="toast_reboot">Изменения вступят в силу в следующий раз.</string>
+    <string name="toast_renamed">"Файл переименован в
+%s"</string>
+    <string name="toast_request_permission">APK Checker необходимо разрешение для чтения APK файлов.</string>
+    <string name="toast_saved_ic">Иконка сохранена в галерею</string>
+    <string name="toast_undone">Не готово!</string>
+</resources>

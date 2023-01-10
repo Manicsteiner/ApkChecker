@@ -1,0 +1,79 @@
+Manifest-Version: 1.0
+Built-By: 1.3.0
+Created-By: Android Gradle 1.3.0
+
+Name: res/drawable-v21/ic_action_rename.xml
+SHA1-Digest: EKdR63x3JQEeGDgJAeI0Az3fFb4=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher.png
+SHA1-Digest: DGoz+QTJ/VpIzCHovXbImsDvtKs=
+
+Name: res/layout/dialog_set_installer.xml
+SHA1-Digest: Oz1j7/aKaKnrEm8Ad7d2Ba+WUEs=
+
+Name: res/menu-v4/menu_main.xml
+SHA1-Digest: j1rXlWiHdj6mlUuaDe7CXE0J1/E=
+
+Name: resources.arsc
+SHA1-Digest: My9ptwjjRwpI+5QMWM/d3oJkqXs=
+
+Name: classes.dex
+SHA1-Digest: EQJK5VQlp+xYPqcAgPgs5ZKDZu8=
+
+Name: res/layout-v11/activity_batch_rename.xml
+SHA1-Digest: VQvhwmz0NIKcbx2GPE4q/eF/GPA=
+
+Name: res/layout-v11/table_rows.xml
+SHA1-Digest: 5Y7nr+ryatoo8zYbBA9Vpkn0GBw=
+
+Name: res/layout-v21/activity_main.xml
+SHA1-Digest: menhnkUzbnKS5yyzAtS8R8hbmBs=
+
+Name: res/menu-v21/menu_main_dev.xml
+SHA1-Digest: mekGssaGAy/W+0vM4w4hkDi2q6k=
+
+Name: res/menu-v11/menu_main.xml
+SHA1-Digest: Xezc9G2iowHLaI4M4XTYU1fR9zA=
+
+Name: AndroidManifest.xml
+SHA1-Digest: +SPAuJhhI/5TaBQ51wFqhDdm18c=
+
+Name: res/mipmap-hdpi-v4/ic_launcher.png
+SHA1-Digest: jVcCCKH8S3LpMj6vRU2ECuZx7sc=
+
+Name: res/menu-v21/menu_main.xml
+SHA1-Digest: ZXsxb4TnObiC7BkKwDyeGCHZ/pk=
+
+Name: res/layout/table_uninstalled.xml
+SHA1-Digest: EgBMx+wefCOHUjmADSJyErq/oLw=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: MVt6b++vt9QTVAGRiv1TGf3kqr0=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher.png
+SHA1-Digest: 9pP8yLE+feY9sNLUF3hJfCS3/Ok=
+
+Name: res/mipmap-mdpi-v4/ic_launcher.png
+SHA1-Digest: cJaGVyuV200rOEKjdwSBj9Q6HhI=
+
+Name: res/layout/table_installed.xml
+SHA1-Digest: weuCpZ51nDMIf1YQEvxP8DiJ52g=
+
+Name: res/layout/table_rows.xml
+SHA1-Digest: YNqFlgV5oB1iBLH86Gwqtgw0kVw=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: SqXDPAqRoKemD8E0jIB6nKPOQgw=
+
+Name: res/layout-v4/dialog_set_installer_light.xml
+SHA1-Digest: bnVh4ob8bRY+7zzuoiPdzjvkMQ8=
+
+Name: res/menu-v11/menu_main_dev.xml
+SHA1-Digest: Q5uRlNMJDz5uQSLosknE9wnewNw=
+
+Name: res/layout/activity_batch_rename.xml
+SHA1-Digest: aq8ZIjKDrgzFAKT2Buud1NNyI5E=
+
+Name: res/layout/activity_hello.xml
+SHA1-Digest: I4MHFkCwjRiNPtLLede0wq40YNg=
+

@@ -1,0 +1,79 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: 9FIDt5WfmyaErqlZNIF2wfbJb5I=
+
+Name: res/drawable-v21/ic_action_rename.xml
+SHA1-Digest: m8HyIkERrOj59sSROlm/cJPLtIw=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher.png
+SHA1-Digest: JA6urlSTjtSk3errF6kXSyUBsyI=
+
+Name: res/layout/dialog_set_installer.xml
+SHA1-Digest: GeNqS8s2nb9cGwK13SbWum54Q+4=
+
+Name: res/menu-v4/menu_main.xml
+SHA1-Digest: 2RxZOkvnFXY4Pgz754AdIVdd+Oo=
+
+Name: resources.arsc
+SHA1-Digest: f1gaA7DkQQTJ4Wyl53UoV/LwJk0=
+
+Name: classes.dex
+SHA1-Digest: H1NEnfO9ewQYeoKx9A7vJmmIw+g=
+
+Name: res/layout-v11/activity_batch_rename.xml
+SHA1-Digest: GgQNy0VWbtfx02Y5+6DfH7fQkgw=
+
+Name: res/layout-v11/table_rows.xml
+SHA1-Digest: 60e2LmFy3fbxm/lS3xocJt9DoMo=
+
+Name: res/layout-v21/activity_main.xml
+SHA1-Digest: 4++O4d47P53GpynIbIwD4Mqrwbg=
+
+Name: res/menu-v21/menu_main_dev.xml
+SHA1-Digest: 2M64LHBypvUPSA8UqqPgAIuOypw=
+
+Name: res/menu-v11/menu_main.xml
+SHA1-Digest: LCmESzX2qBAED9dCRO5uayse49o=
+
+Name: AndroidManifest.xml
+SHA1-Digest: kGltS2sj+nhyPj1gLPe/gcHri34=
+
+Name: res/layout/table_uninstalled.xml
+SHA1-Digest: dItsb1xlaK2gjUNZGlBGxJYCWpA=
+
+Name: res/menu-v21/menu_main.xml
+SHA1-Digest: v5MNHVXviYM5qoisMZWt1eRPVjY=
+
+Name: res/mipmap-hdpi-v4/ic_launcher.png
+SHA1-Digest: coEbmHuUlR3R/m69aJZi7jOIS4s=
+
+Name: res/layout/table_installed.xml
+SHA1-Digest: fAfa8AEmkqUkQDrt8FWUe9PeuGA=
+
+Name: res/mipmap-mdpi-v4/ic_launcher.png
+SHA1-Digest: JD+31uPSsTE3DmFKzeWOXKp/NOA=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher.png
+SHA1-Digest: vfawq9NOzAQLgRr+2Hxka98+eSQ=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: BNOIzYZpq3esXyr4tbJVAZ1l/bg=
+
+Name: res/layout/table_rows.xml
+SHA1-Digest: CriTtEIEydu1vzEzpiMbZu24m8E=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: BzsKrzbuXJiISuZuWWt7uKjWB1k=
+
+Name: res/layout-v4/dialog_set_installer_light.xml
+SHA1-Digest: 3kzKS6vR9KT1G6Tdoe09iNUOb6o=
+
+Name: res/layout/activity_batch_rename.xml
+SHA1-Digest: m7yRcsghcmGp0bypUMt4zxtvo1c=
+
+Name: res/menu-v11/menu_main_dev.xml
+SHA1-Digest: iN6cp2Azk4mlHWcZdaIyoPliwsA=
+
+Name: res/layout/activity_hello.xml
+SHA1-Digest: ZKX9gm26PKW1mG5mwgw3ci8G0mc=
+

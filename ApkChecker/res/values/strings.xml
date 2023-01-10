@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dia_title_set_installer">Set package installer</string>
+    <string name="menu_set_installer">Set package installer</string>
+    <string name="toast_no_system_installer">Sorry, the package installer is not found.</string>
+    <string name="menu_clear_defaults">Clear defaults</string>
+    <string name="toast_cleared_defaults">Cleared defaults.</string>
+    <string name="activity_batch_rename">APK Batch Renamer</string>
+    <string name="app_name">APK Checker</string>
+    <string name="dia_batch_rename_desc">"APK Batch Renamer is activated now!
+
+How to do?
+Select target APKs in any file explorer and share/send them to APK Batch Renamer."</string>
+    <string name="dia_bt_always">Always</string>
+    <string name="dia_bt_cancel">Cancel</string>
+    <string name="dia_bt_close">OK</string>
+    <string name="dia_bt_got_it">Got it</string>
+    <string name="dia_bt_hide">Hide</string>
+    <string name="dia_bt_market">Go to market</string>
+    <string name="dia_bt_ok">OK</string>
+    <string name="dia_bt_once">Just once</string>
+    <string name="dia_bt_reset">Reset</string>
+    <string name="dia_bt_thanks">Thanks</string>
+    <string name="dia_bt_undo">Undo all</string>
+    <string name="dia_class_name">Class name:</string>
+    <string name="dia_help_desc">"APK Checker is used to view the details of APKs (.apk files).
+
+[EXPLANATION]
+
+> %1$s
+%2$s
+
+> %3$s
+%4$s
+
+> %5$s
+%6$s
+
+> %7$s
+%8$s
+
+> %9$s
+%10$s
+
+> %11$s
+%12$s
+
+> %13$s
+%14$s
+
+> %15$s
+%16$s
+
+> %17$s
+%18$s
+
+> %19$s
+%20$s
+
+> %21$s
+%22$s
+
+> %23$s
+%24$s
+
+> %25$s
+%26$s
+
+> %27$s
+%28$s
+
+> %29$s
+%30$s
+
+> %31$s
+%32$s
+
+> %33$s
+%34$s
+
+> %35$s
+%36$s
+
+> %37$s
+%38$s
+
+> %39$s
+%40$s
+
+> %41$s
+%42$s
+
+> %43$s
+%44$s
+
+> %45$s
+%46$s
+
+> %47$s
+%48$s
+
+> %49$s
+%50$s
+
+> %51$s
+%52$s
+
+> %53$s
+%54$s
+
+> %55$s
+%56$s
+
+%57$s"</string>
+    <string name="dia_item_desc">"> %1$s
+%2$s"</string>
+    <string name="dia_loading">Loading...</string>
+    <string name="dia_package_name">Package name:</string>
+    <string name="dia_thanks_desc">"APK Checker grows with users' help.
+
+Thank
+> @balzac, etc. for helping design the new icon.
+> @mooooo, @以Porsche之名, @illsr, etc. for helping translate into Traditional Chinese.
+> @萌萌的小雅酱, etc. for helping translate into Japanese.
+> @maksnogin, etc. for helping translate into Russian.
+> @luchun0112, etc. for feeding back and suggesting.
+
+APK Checker includes libraries licensed under the Apache Software License 2.0.
+> Modified version of zip4j_v1.3.2"</string>
+    <string name="dia_title_batch_rename">APK Batch Renamer</string>
+    <string name="dia_title_help">Help</string>
+    <string name="dia_title_make_lines">Show/hide items</string>
+    <string name="dia_title_name_pic_rule">How to name?</string>
+    <string name="dia_title_rename_apk_rule">How to rename?</string>
+    <string name="dia_title_renaming">Renaming...</string>
+    <string name="dia_title_skipped">Skipped (%1$d/%2$d)</string>
+    <string name="dia_title_thanks">Thanks</string>
+    <string name="hello_warning">Notice that, the application icon WILL NOT appear in the launcher.</string>
+    <string name="i_know">I Know</string>
+    <string name="install">Continue to install</string>
+    <string name="menu_batch_rename">APK Batch Renamer</string>
+    <string name="menu_extra_label">Extra label</string>
+    <string name="menu_help">Help</string>
+    <string name="menu_light_theme">Light theme</string>
+    <string name="menu_make_lines">Show/hide items</string>
+    <string name="menu_more">More...</string>
+    <string name="menu_rename">Format file name</string>
+    <string name="menu_save_icon">Save icon</string>
+    <string name="menu_uninstall">Uninstall APK Checker</string>
+    <string name="menu_view_in_market">View in market</string>
+    <string name="show_installed">Show INSTALLED</string>
+    <string name="tag_activities">Activities:</string>
+    <string name="tag_app_name">App name:</string>
+    <string name="tag_certificate_end">Certificate end:</string>
+    <string name="tag_certificate_fingerprints">"Certificate 
+fingerprints:"</string>
+    <string name="tag_certificate_start">Certificate start:</string>
+    <string name="tag_compiling_time">Compiling time:</string>
+    <string name="tag_file_name">File name:</string>
+    <string name="tag_file_path">File path:</string>
+    <string name="tag_file_size">File size:</string>
+    <string name="tag_first_install">First install:</string>
+    <string name="tag_flags">Flags:</string>
+    <string name="tag_help_activities">"An activity represents a single screen with a user interface.
+It is one of the four essential app components for an Android app.
+(The green is activity which is available for use by other apps.)"</string>
+    <string name="tag_help_app_name">Line 1 is name according to current language, and line 2 is in English (if exists).</string>
+    <string name="tag_help_certificate_end">The end of the validity period of the certificate.</string>
+    <string name="tag_help_certificate_fingerprints">It shows the following items: the name of the algorithm for the certificate signature, the certificates version, hash value of MD5, hash value of SHA1 and hash value of SHA256.</string>
+    <string name="tag_help_certificate_start">The start of the validity period of the certificate.</string>
+    <string name="tag_help_compiling_time">"The date when the application package was created.
+Notice that, it's not always accurate."</string>
+    <string name="tag_help_file_name">"The name of the .apk file.
+(It's a duplication if red. Because the raw APK is not accessible.)"</string>
+    <string name="tag_help_file_path">"The real full path of the .apk file.
+(It's a duplication if red. Because the raw APK is not accessible.)"</string>
+    <string name="tag_help_file_size">The size of the .apk file.</string>
+    <string name="tag_help_first_install">The time at which the app was first installed.</string>
+    <string name="tag_help_flags">Flags associated with the application.</string>
+    <string name="tag_help_icon_size">The size should be 48*48dp according to official documents.</string>
+    <string name="tag_help_installed_from">"It shows the application that installed this package.
+This identifies which market the package came from, such as Google Play Store."</string>
+    <string name="tag_help_last_update">The time at which the app was last updated.</string>
+    <string name="tag_help_launcher_activity">"A front-door activity in a package.
+If the value were empty, there would be no the application's icon in \"Launcher\"."</string>
+    <string name="tag_help_launcher_icon">What you see is raw image without scaling.</string>
+    <string name="tag_help_min_sdk">"An integer designating the minimum API Level required for the application to run.
+The Android system will prevent the user from installing the application if the system's API Level is lower than the value specified in this attribute."</string>
+    <string name="tag_help_package_name">"A full Java-language-style package name for the application.
+The name should be unique.
+Once an application published, the package name could not be changed."</string>
+    <string name="tag_help_permissions">Declares a security permission that can be used to limit access to specific components or features of this or other applications.</string>
+    <string name="tag_help_providers">"A content provider manages a shared set of app data.
+It is one of the four essential app components for an Android app.
+(The green is content provider which is available for use by other apps.)"</string>
+    <string name="tag_help_receivers">"A broadcast receiver is a component that responds to system-wide broadcast announcements.
+Many broadcasts originate from the system.
+It is one of the four essential app components for an Android app.
+(The green is receiver which is available for use by other apps.)"</string>
+    <string name="tag_help_req_permissions">"Android is a privilege-separated operating system, and additional finer-grained security features are provided through a \"permission\" mechanism that enforces restrictions on the specific operations that a particular process can perform.
+\"Requested permissions\" lists all permissions this application requested.
+(The red is permission which is dangerous defined in API 23.
+Dangerous permissions cover areas where the app wants data or resources that involve the user's private information, or could potentially affect the user's stored data or the operation of other apps.)"</string>
+    <string name="tag_help_services">"A service is a component that runs in the background to perform long-running operations or to perform work for remote processes.
+A service does not provide a user interface.
+It is one of the four essential app components for an Android app.
+(The green is service which is available for use by other apps.)"</string>
+    <string name="tag_help_signatures">"A signing certificate associated with the application package.
+All APKs (.apk files) must be signed with a certificate whose private key is held by their developer.
+This certificate identifies the author of the application.
+\"Signatures\" shows the following items: CN(first and last name), OU(organizational unit), O(organization), L(city or locality), ST(state or province) and C(country code).
+(Red if informal.)"</string>
+    <string name="tag_help_supported_abis">"ABIs supported by this application.
+Notice that, it's not always correct."</string>
+    <string name="tag_help_target_sdk">An integer designating the API Level that the application targets.</string>
+    <string name="tag_help_ver_code">"An internal version number.
+This number is used only to determine whether one version is more recent than another, with higher numbers indicating more recent versions."</string>
+    <string name="tag_help_ver_name">The version number shown to users.</string>
+    <string name="tag_icon_size">Icon size:</string>
+    <string name="tag_installed_from">Installed from:</string>
+    <string name="tag_last_update">Last update:</string>
+    <string name="tag_launcher_activity">"Launcher 
+activity:"</string>
+    <string name="tag_launcher_icon">Launcher icon:</string>
+    <string name="tag_min_sdk">Min SDK version:</string>
+    <string name="tag_package_name">Package name:</string>
+    <string name="tag_permissions">Permissions:</string>
+    <string name="tag_providers">"Content 
+providers:"</string>
+    <string name="tag_receivers">"Broadcast 
+receivers:"</string>
+    <string name="tag_req_permissions">"Requested 
+permissions:"</string>
+    <string name="tag_services">Services:</string>
+    <string name="tag_signatures">Signatures:</string>
+    <string name="tag_supported_abis">Supported ABIs:</string>
+    <string name="tag_target_sdk">"Target 
+SDK version:"</string>
+    <string name="tag_ver_code">Version code:</string>
+    <string name="tag_ver_name">Version name:</string>
+    <string name="tap_to_show_progress">Tap screen to show progress.</string>
+    <string name="title_installed">INSTALLED</string>
+    <string name="toast_batch_rename_removed">REMOVED APK Batch Renamer!</string>
+    <string name="toast_copied">Copied to clipboard.</string>
+    <string name="toast_dev_already">No need, you are already a developer.</string>
+    <string name="toast_dev_mode">You are now a developer!</string>
+    <string name="toast_reboot">It will take effect NEXT TIME.</string>
+    <string name="toast_renamed">"The file name has been renamed to
+%s"</string>
+    <string name="toast_request_permission">APK Checker needs this permission to read APKs.</string>
+    <string name="toast_saved_ic">The launcher icon has been saved to Picture Directory.</string>
+    <string name="toast_undone">Undone!</string>
+    <string name="copyright">Copyright © 2015-2016 By_syk. All rights reserved.</string>
+</resources>
