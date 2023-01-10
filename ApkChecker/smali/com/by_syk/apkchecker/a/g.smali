@@ -213,52 +213,52 @@
     goto :goto_0
 
     :sswitch_9
-    const-string v0, "Android 2.3.3/2.3.4"
+    const-string v0, "Android 2.3.3/2.3.4 GINGERBREAD_MR1"
 
     goto :goto_0
 
     :sswitch_a
-    const-string v0, "Android 3.0.x"
+    const-string v0, "Android 3.0.x HONEYCOMB"
 
     goto :goto_0
 
     :sswitch_b
-    const-string v0, "Android 3.1.x"
+    const-string v0, "Android 3.1.x HONEYCOMB_MR1"
 
     goto :goto_0
 
     :sswitch_c
-    const-string v0, "Android 3.2"
+    const-string v0, "Android 3.2 HONEYCOMB_MR2"
 
     goto :goto_0
 
     :sswitch_d
-    const-string v0, "Android 4.0/4.0.1/4.0.2"
+    const-string v0, "Android 4.0/4.0.1/4.0.2 ICE_CREAM_SANDWICH"
 
     goto :goto_0
 
     :sswitch_e
-    const-string v0, "Android 4.0.3/4.0.4"
+    const-string v0, "Android 4.0.3/4.0.4 ICE_CREAM_SANDWICH_MR1"
 
     goto :goto_0
 
     :sswitch_f
-    const-string v0, "Android 4.1/4.1.1"
+    const-string v0, "Android 4.1/4.1.1 JELLY_BEAN"
 
     goto :goto_0
 
     :sswitch_10
-    const-string v0, "Android 4.2/4.2.2"
+    const-string v0, "Android 4.2/4.2.2 JELLY_BEAN_MR1"
 
     goto :goto_0
 
     :sswitch_11
-    const-string v0, "Android 4.3"
+    const-string v0, "Android 4.3 JELLY_BEAN_MR2"
 
     goto :goto_0
 
     :sswitch_12
-    const-string v0, "Android 4.4"
+    const-string v0, "Android 4.4 KITKAT"
 
     goto :goto_0
 
@@ -268,21 +268,71 @@
     goto :goto_0
 
     :sswitch_14
-    const-string v0, "Android 5.0"
+    const-string v0, "Android 5.0 Lollipop Android L"
 
     goto :goto_0
 
     :sswitch_15
-    const-string v0, "Android 5.1.1"
+    const-string v0, "Android 5.1.1 LOLLIPOP_MR1 Android L"
 
     goto :goto_0
 
     :sswitch_16
-    const-string v0, "Android 6.0"
+    const-string v0, "Android 6.0 Marshmallow Android M"
 
     goto :goto_0
 
     :sswitch_17
+    const-string v0, "Android 7.0 Nougat Android N"
+
+    goto :goto_0
+
+    :sswitch_18
+    const-string v0, "Android 7.1 Nougat Android N_MR1"
+
+    goto :goto_0
+
+    :sswitch_19
+    const-string v0, "Android 8.0 Oreo Android O"
+
+    goto :goto_0
+
+    :sswitch_1a
+    const-string v0, "Android 8.1 Oreo_MR1 Android O"
+
+    goto :goto_0
+
+    :sswitch_1b
+    const-string v0, "Android 9.0 Pie Android P"
+
+    goto :goto_0
+
+    :sswitch_1c
+    const-string v0, "Android 10 Android Q"
+
+    goto :goto_0
+
+    :sswitch_1d
+    const-string v0, "Android 11 Red Velvet Cake Android R"
+
+    goto :goto_0
+
+    :sswitch_1e
+    const-string v0, "Android 12 Snow Cone Android S"
+
+    goto :goto_0
+
+    :sswitch_1f
+    const-string v0, "Android 12 Snow Cone Android S_V2"
+
+    goto :goto_0
+
+    :sswitch_20
+    const-string v0, "Android 13 Tiramisu Android T"
+
+    goto :goto_0
+
+    :sswitch_21
     const-string v0, ""
 
     goto :goto_0
@@ -312,6 +362,16 @@
         0x15 -> :sswitch_14
         0x16 -> :sswitch_15
         0x17 -> :sswitch_16
-        0x2710 -> :sswitch_17
+        0x18 -> :sswitch_17
+        0x19 -> :sswitch_18
+        0x1a -> :sswitch_19
+        0x1b -> :sswitch_1a
+        0x1c -> :sswitch_1b
+        0x1d -> :sswitch_1c
+        0x1e -> :sswitch_1d
+        0x1f -> :sswitch_1e
+        0x20 -> :sswitch_1f
+        0x21 -> :sswitch_20
+        0x2710 -> :sswitch_21
     .end sparse-switch
 .end method
