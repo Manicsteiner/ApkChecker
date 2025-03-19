@@ -333,7 +333,22 @@
     goto :goto_0
 
     :sswitch_21
-    const-string v0, ""
+    const-string v0, "Android 14 Upside Down Cake"
+
+    goto :goto_0
+
+    :sswitch_22
+    const-string v0, "Android 15 Vanilla Ice Cream"
+
+    goto :goto_0
+
+    :sswitch_23
+    const-string v0, "Android 16 Baklava"
+
+    goto :goto_0
+
+    :sswitch_24
+    const-string v0, "???"
 
     goto :goto_0
 
@@ -372,6 +387,9 @@
         0x1f -> :sswitch_1e
         0x20 -> :sswitch_1f
         0x21 -> :sswitch_20
-        0x2710 -> :sswitch_21
+        0x22 -> :sswitch_21
+        0x23 -> :sswitch_22
+        0x24 -> :sswitch_23
+        0x2710 -> :sswitch_24
     .end sparse-switch
 .end method
